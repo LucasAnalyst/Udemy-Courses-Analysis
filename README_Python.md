@@ -37,4 +37,4 @@ It cotain 1 sheet/table:
 ![](images/PyID.png)
 
 5. Then check duplicate rows then drop them, and create file.csv
-## IV. Continue with SQL queries in [README_SQL]()
+## IV. Continue with SQL queries in [README_SQL_PowerBI](https://github.com/LucasAnalyst/Udemy-Courses-Analysis/blob/main/README_SQL_PowerBI.md)
