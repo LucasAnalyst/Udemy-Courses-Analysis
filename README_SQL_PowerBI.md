@@ -78,9 +78,9 @@ Musical Instrusment | Web Development
   
 * Best option: Web Development for All level/Beginner level with duration time is 1,5 to 2 hours. The course will bring you the most subscribers and revenue. 
 * Another option: 
-+ Business Finance for All level with duration time is 1 to 1,5 hours.
-+ Graphic Design for Beginner level with duration time is 1 or 2.5 hours
-+ Musical Instruments for Beginner level with duration time is 1.5 or 4.5 hours.
+  + Business Finance for All level with duration time is 1 to 1,5 hours.
+  + Graphic Design for Beginner level with duration time is 1 or 2.5 hours
+  + Musical Instruments for Beginner level with duration time is 1.5 or 4.5 hours.
 
 **Note:** This recommendation is base on Udemy course data that was collected from 2011 to 2017.
 
