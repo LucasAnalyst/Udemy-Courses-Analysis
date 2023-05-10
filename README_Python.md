@@ -37,12 +37,12 @@ It cotain 1 sheet/table:
 ![](images/PyID.png)
 
 5. Then check duplicate rows then drop them, and create file.csv
-# Udemy Courses Analysis
-* Udemy_courses.csv file [here](https://github.com/LucasAnalyst/Udemy-Courses-Analysis/blob/main/2.%20Udemy_courses.csv)
-* Udemy_courses_SQL file [here](https://github.com/LucasAnalyst/Udemy-Courses-Analysis/blob/main/3.%20UDEMY_COURSES_SQL.sql)
+
 ---
 
 ## IV. Continue with SQL queries
+* Udemy_courses.csv file [here](https://github.com/LucasAnalyst/Udemy-Courses-Analysis/blob/main/2.%20Udemy_courses.csv)
+* Udemy_courses_SQL file [here](https://github.com/LucasAnalyst/Udemy-Courses-Analysis/blob/main/3.%20UDEMY_COURSES_SQL.sql)
 1. Connect my databases then import csv flat file csv as Udemy_courses name, then perform some queries to answer a few questions
 2. The results
 
